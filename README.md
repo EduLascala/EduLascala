@@ -26,6 +26,7 @@
 ![MySQL Workbench](https://img.shields.io/badge/-Oracle_SQL_Developer-95AFCB?style=flat&logoColor=white&logo=oracle) 
 ![PyCharm](https://img.shields.io/badge/-PyCharm-20D68B?style=flat&logoColor=white&logo=pycharm) 
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse-orange) 
+![AndroidStudio](https://img.shields.io/badge/Android%20Studio%20-%20lightblue?style=flat&logoSize=auto)
 
 
 <br />
