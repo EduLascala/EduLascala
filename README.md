@@ -10,6 +10,8 @@
 ![Java](https://img.shields.io/badge/-Java-ff961f?style=flat&logoColor=white&logo=java) 
 ![c](https://img.shields.io/badge/c-purple)
 ![c++](https://img.shields.io/badge/c%2B%2B-lightblue)
+![kotlin](https://img.shields.io/badge/kotlin-purple?style=flat&logoSize=auto)
+
 
 #### 🛠 Tools
 ![Microsoft Office](https://img.shields.io/badge/-Microsoft_Office-dc5400?style=flat&logoColor=white&logo=microsoft-office) 
